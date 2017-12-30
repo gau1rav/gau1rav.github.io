@@ -1,9 +1,6 @@
+
 body {
-      background-image:url();
-      background-size:cover;
-                                 }
-body {
-      background-image:url('images/2.jpg');
+      background-image:url('/images/2.jpg');
       background-repeat:no repeat;
       backround-size:cover;
                                                       }
