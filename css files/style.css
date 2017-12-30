@@ -1,0 +1,25 @@
+#div1 {
+       font-size:120%;
+       color:white;
+                              }
+#div2 {
+       border:1px solid blue;
+       text-align:center;
+                               }
+h2 {
+    text-align:center;
+    color:red;
+                       }
+#img1 {
+       display:block;
+       margin-right:auto;
+       margin-left:auto;
+       height:125px;
+       width:125px;
+                      }
+p {
+   font-size:125%;
+                    }
+footer {
+        font-size:75%;
+                        }
